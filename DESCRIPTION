@@ -1,0 +1,18 @@
+Package: custeR
+Title: Easily get pit-stop and lap speed data from NASCAR.com
+Version: 0.0.0.9000
+Authors@R: 
+    person("Benjamin", "Gramza", , "benjamingramza@gmail.com", role = c("aut", "cre"))
+Description: Simple functions to quickly pull pit-stop, lap speed, and other data from NASCAR.com. 
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.2
+LazyData: true
+Imports: 
+    dplyr,
+    jsonlite,
+    magrittr,
+    readr,
+    stringr
