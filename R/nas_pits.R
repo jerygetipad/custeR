@@ -1,16 +1,16 @@
 #' Get Pit Data
 #'
-#' Gets Pit Stop Data for the 2022 NASCAR Season
+#' Gets Pit Stop Data for the 2022 NASCAR Season from NASCAR.com
 #'
 #' @param year The year 2022.
 #' @param series 1=Cup, 2=Xfinity, 3=Trucks.
 #' @returns A data frame of pit stops.
 #'
 #' @examples
-#' get_pits(year=2022,series=2)
+#' nas_pits(year=2022,series=2)
 
 #' @export
-get_pits <- function(year=2022,series=1) {
+nas_pits <- function(year=2022,series=1) {
   tmp = paste0("./data/race_list/series_",series,"/race_list_",year,".csv")
   race_list <- readr::read_csv(tmp)
   races = race_list$race_id[race_list$race_type_id==1 & race_list$inspection_complete==1]
