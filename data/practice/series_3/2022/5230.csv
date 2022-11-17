@@ -1,0 +1,77 @@
+Number,NASCARDriverID,Driver,FullName,Manufacturer,Sponsor,OverAllAvg,OverAllAvgRank,BestLapTime,BestLapRank,Con5Lap,Con5LapRank,Con10Lap,Con10LapRank,Con15Lap,Con15LapRank,Con20Lap,Con20LapRank,Con25Lap,Con25LapRank,Con30Lap,Con30LapRank,PracticeName,race_id
+4,4092,Nemechek,John Hunter Nemechek,Tyt,Mobil 1,24.504027,1,23.563,7,23.727,4,24.149,3,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+52,4205,Friesen,Stewart Friesen,Tyt,Halmar International,24.5078333,2,23.407,2,23.573,1,24.169,6,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+18,4312,Smith,Chandler Smith,Tyt,Charge Me,24.6701875,3,23.908,19,24.12,15,24.166,4,24.249,2,NA,NA,NA,NA,NA,NA,Practice 1,5230
+61,4295,Purdy,Chase Purdy,Tyt,Bama Buggies,24.7066,4,23.877,18,24.707,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+99,4107,Rhodes,Ben Rhodes,Tyt,Tenda,24.7124138,5,23.033,1,23.684,3,23.99,1,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+17,4231,Gilliland(i),Todd Gilliland(i),Frd,Frontline Enterprises,24.7868,6,23.653,10,23.847,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+42,4326,Hocevar,Carson Hocevar,Chv,Worldwide Express,24.8072857,7,23.437,3,23.648,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+22,4038,Moffitt(i),Brett Moffitt(i),Chv,Concrete Supply/Destiny Homes,24.8399273,8,23.526,6,23.743,5,24.196,7,24.245,1,24.274,1,24.282,1,24.271,1,Practice 1,5230
+62,4377,Friesen,Jessica Friesen,Tyt,Halmar International,24.8531707,9,24.16,27,24.323,19,24.49,12,24.572,7,24.645,2,24.681,2,NA,NA,Practice 1,5230
+66,4235,Majeski,Ty Majeski,Tyt,Road Ranger,24.8984242,10,23.438,4,23.941,10,24.579,14,24.535,5,NA,NA,NA,NA,NA,NA,Practice 1,5230
+16,4296,Ankrum,Tyler Ankrum,Tyt,LiUNA!,24.9330286,11,23.75,15,24.157,17,24.343,9,24.55,6,NA,NA,NA,NA,NA,NA,Practice 1,5230
+15,4342,Gray,Tanner Gray,Frd,Ford Performance,24.9441667,12,23.623,9,24.011,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+24,4391,Wood #,Jack Wood #,Chv,Chevyliners.com,24.96596,13,24.004,23,24.059,13,24.149,2,24.972,11,24.978,4,25.068,3,25.164,2,Practice 1,5230
+1,4366,Deegan,Hailie Deegan,Frd,Monster Energy,25.0378333,14,24.012,24,24.741,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+56,3984,Hill,Timmy Hill,Tyt,Hill Motorsports,25.0547143,15,24.182,29,24.437,22,24.548,13,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+02,4191,Grala,Kaz Grala,Chv,Ruedebusch Development,25.1255161,16,24.143,26,24.354,21,24.453,10,24.482,3,NA,NA,NA,NA,NA,NA,Practice 1,5230
+51,4428,Kofoid,Buddy Kofoid,Tyt,Mobil 1,25.1486429,17,23.691,13,23.82,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+98,4268,Eckes,Christian Eckes,Tyt,TSPORT,25.3380233,18,23.673,11,23.807,6,24.167,5,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+46,4436,Mitchell,Bryson Mitchell,Tyt,Sparks,25.3515625,19,24.465,36,24.737,29,24.794,17,24.931,10,NA,NA,NA,NA,NA,NA,Practice 1,5230
+23,3978,Enfinger,Grant Enfinger,Chv,Champion Power Equipment,25.3601316,20,23.722,14,23.948,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+40,4414,Thompson #,Dean Thompson #,Chv,Worldwide Express,25.40292,21,24.051,25,24.212,18,24.481,11,24.53,4,NA,NA,NA,NA,NA,NA,Practice 1,5230
+6,214,Benning,Norm Benning,Chv,Circle B Diecast,25.4522903,22,24.445,35,24.807,32,25.225,22,25.541,13,NA,NA,NA,NA,NA,NA,Practice 1,5230
+41,4439,Carpenter,Tyler Carpenter,Chv,Aggressive,25.4701429,23,23.872,17,24.132,16,24.653,15,24.751,8,24.809,3,NA,NA,NA,NA,Practice 1,5230
+91,4344,Howard,Colby Howard,Chv,Gates Hydraulics,25.532875,24,23.843,16,24.061,14,24.243,8,24.805,9,NA,NA,NA,NA,NA,NA,Practice 1,5230
+43,4403,Rouse,Devon Rouse,Chv,Spry,25.5861667,25,24.357,33,24.757,31,24.853,19,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+25,3916,DiBenedetto,Matt DiBenedetto,Chv,Rackley Roofing/WAR Shocks,25.63325,26,23.679,12,25.467,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+9,4376,Perkins #,Blaine Perkins #,Chv,RACELINE,25.6948333,27,24.163,28,24.583,27,24.759,16,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+19,4297,Kraus,Derek Kraus,Chv,NAPA AutoCare,25.7885455,28,23.591,8,23.845,8,26.138,24,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+12,4192,Boyd,Spencer Boyd,Chv,Freedom Warranty,25.8134375,29,23.995,22,24.572,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+38,4272,Smith,Zane Smith,Frd,Boot Barn,25.8908333,30,23.935,21,24.337,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+3,4440,Westbrook,Dylan Westbrook,Chv,Townline Variety,25.9575161,31,23.926,20,24.524,24,24.805,18,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+20,4415,Moffitt,Thad Moffitt,Chv,Clean Harbors,25.983069,32,24.248,31,24.53,25,24.926,20,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+45,4371,Alan #,Lawless Alan #,Chv,AUTOParkIt,26.1841778,33,24.222,30,24.455,23,25.629,23,25.914,14,26.043,5,NA,NA,NA,NA,Practice 1,5230
+33,4431,Laster,Brayton Laster,Chv,PatrickFabrication.com,26.276,34,25,38,25.331,35,26.235,25,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+53,4283,Mitchell,Braden Mitchell,Chv,Twisted Performance & Machine,26.2852759,35,24.335,32,25.037,34,25.133,21,25.19,12,NA,NA,NA,NA,NA,NA,Practice 1,5230
+44,4364,Wright,Kris Wright,Chv,F.N.B. Corporation,26.31125,36,24.538,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+30,4004,Gase(i),Joey Gase(i),Tyt,Sparks Energy Inc,26.6193667,37,24.401,34,24.905,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+88,694,Crafton,Matt Crafton,Tyt,Ideal Door/Menards,28.405,38,23.501,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5230
+52,4205,Friesen,Stewart Friesen,Tyt,Halmar International,25.0136563,1,24.002,11,24.846,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+88,694,Crafton,Matt Crafton,Tyt,Ideal Door/Menards,25.0351045,2,23.756,3,24.184,5,24.498,1,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+18,4312,Smith,Chandler Smith,Tyt,Charge Me,25.0631515,3,23.691,2,24.025,2,25.224,12,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+99,4107,Rhodes,Ben Rhodes,Tyt,Tenda,25.1333396,4,23.816,5,24.263,6,24.814,4,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+42,4326,Hocevar,Carson Hocevar,Chv,Worldwide Express,25.1522105,5,23.508,1,23.919,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+38,4272,Smith,Zane Smith,Frd,Boot Barn,25.1951622,6,24.002,12,24.947,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+17,4231,Gilliland(i),Todd Gilliland(i),Frd,Frontline Enterprises,25.2050732,7,23.91,8,24.327,9,26.784,22,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+1,4366,Deegan,Hailie Deegan,Frd,Monster Energy,25.33884,8,23.878,7,24.167,4,25.393,15,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+23,3978,Enfinger,Grant Enfinger,Chv,Champion Power Equipment,25.3892632,9,24.171,19,24.461,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+25,3916,DiBenedetto,Matt DiBenedetto,Chv,Rackley Roofing/WAR Shocks,25.3972857,10,24.756,28,25.146,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+62,4377,Friesen,Jessica Friesen,Tyt,Halmar International,25.4217959,11,24.287,20,24.75,15,24.983,8,25.249,2,NA,NA,NA,NA,NA,NA,Final Practice,5230
+4,4092,Nemechek,John Hunter Nemechek,Tyt,Mobil 1,25.4248125,12,24.076,15,24.629,13,24.894,7,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+02,4191,Grala,Kaz Grala,Chv,Ruedebusch Development,25.4474107,13,24.044,13,24.307,8,24.783,3,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+66,4235,Majeski,Ty Majeski,Tyt,Road Ranger,25.4888,14,23.868,6,24.362,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+98,4268,Eckes,Christian Eckes,Tyt,TSPORT,25.5276905,15,24.111,16,24.418,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+20,4415,Moffitt,Thad Moffitt,Chv,Clean Harbors,25.6319231,16,25.003,31,25.205,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+45,4371,Alan #,Lawless Alan #,Chv,AUTOParkIt,25.6416167,17,24.311,21,24.647,14,24.862,6,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+91,4344,Howard,Colby Howard,Chv,Gates Hydraulics,25.6419024,18,23.76,4,24.052,3,24.837,5,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+15,4342,Gray,Tanner Gray,Frd,Ford Performance,25.6548649,19,24.049,14,25.157,26,25.402,16,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+51,4428,Kofoid,Buddy Kofoid,Tyt,Mobil 1,25.7300233,20,24.136,18,24.306,7,24.522,2,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+56,3984,Hill,Timmy Hill,Tyt,Hill Motorsports,25.7334,21,24.525,23,25.012,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+3,4440,Westbrook,Dylan Westbrook,Chv,Townline Variety,25.7766944,22,24.791,29,25.157,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+41,4439,Carpenter,Tyler Carpenter,Chv,Aggressive,25.7922955,23,24.959,30,25.1,23,25.179,11,25.4,3,NA,NA,NA,NA,NA,NA,Final Practice,5230
+24,4391,Wood #,Jack Wood #,Chv,Chevyliners.com,25.8012836,24,24.56,26,25.05,22,25.163,10,25.159,1,NA,NA,NA,NA,NA,NA,Final Practice,5230
+40,4414,Thompson #,Dean Thompson #,Chv,Worldwide Express,25.8711864,25,24.496,22,24.947,20,25.08,9,26.402,5,26.104,1,NA,NA,NA,NA,Final Practice,5230
+22,4038,Moffitt(i),Brett Moffitt(i),Chv,Concrete Supply/Destiny Homes,25.9156863,26,23.975,9,24.752,16,25.235,13,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+61,4295,Purdy,Chase Purdy,Tyt,Bama Buggies,25.952129,27,24.531,24,24.759,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+16,4296,Ankrum,Tyler Ankrum,Tyt,LiUNA!,26.0766154,28,23.991,10,25.143,24,25.299,14,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+43,4403,Rouse,Devon Rouse,Chv,Spry,26.3416842,29,25.137,35,25.463,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+53,4283,Mitchell,Braden Mitchell,Chv,Twisted Performance & Machine,26.37655,30,25.106,33,25.343,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+6,214,Benning,Norm Benning,Chv,Circle B Diecast,26.390931,31,25.486,38,25.807,36,25.867,19,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+46,4436,Mitchell,Bryson Mitchell,Tyt,Sparks,26.458566,32,25.299,36,25.802,35,25.848,18,25.873,4,NA,NA,NA,NA,NA,NA,Final Practice,5230
+44,4364,Wright,Kris Wright,Chv,F.N.B. Corporation,26.6914878,33,25.065,32,25.407,32,25.898,20,26.964,6,NA,NA,NA,NA,NA,NA,Final Practice,5230
+33,4431,Laster,Brayton Laster,Chv,PatrickFabrication.com,26.7133235,34,25.317,37,26.04,37,26.375,21,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+30,4004,Gase(i),Joey Gase(i),Tyt,Sparks Energy Inc,26.9081667,35,24.558,25,25.365,31,27.327,23,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+9,4376,Perkins #,Blaine Perkins #,Chv,RACELINE,26.9902321,36,24.745,27,25.312,29,25.742,17,27.307,7,NA,NA,NA,NA,NA,NA,Final Practice,5230
+12,4192,Boyd,Spencer Boyd,Chv,Freedom Warranty,27.989625,37,25.116,34,25.735,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230
+19,4297,Kraus,Derek Kraus,Chv,NAPA AutoCare,28.2735556,38,24.118,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5230

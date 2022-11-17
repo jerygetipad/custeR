@@ -21,23 +21,14 @@ nas_race_list <- function(year=2022, series=1) {
       if(is.null(schedule_feed[[i]])) {next}
       data=schedule_feed[[i]]
       len = length(data)
-      #infractions = data.frame(race_id=NA,infractions=NA)
+
       for(j in 1:len) {
         tmpdata = data[[j]]
-        #inf="NA"
-        #if(length(tmpdata$infractions)>0) {inf=tmpdata$infractions}
-        #infractions <- rbind(infractions, c(tmpdata$race_id,inf))
         tmpdata[c("schedule","infractions")] <- NULL
         data[[j]] <- tmpdata
       }
       data=data.table::rbindlist(data)
       data= data %>% distinct()
-      # Add Race Short Name
-      #Xwalk <- read_csv("./files/misc/Xwalk_race_id.csv") %>%
-      #  select(track_id, short_name) %>%
-      #  distinct()
-      #data <- left_join(data,Xwalk,by="track_id")
-      #readr::write_csv(x=data,file=paste0("./files/race_list/",i,"/","race_list_",yr,".csv"))
     }
   }
 }

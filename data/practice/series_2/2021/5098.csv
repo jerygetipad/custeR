@@ -1,0 +1,42 @@
+Number,NASCARDriverID,Driver,FullName,Manufacturer,Sponsor,OverAllAvg,OverAllAvgRank,BestLapTime,BestLapRank,Con5Lap,Con5LapRank,Con10Lap,Con10LapRank,Con15Lap,Con15LapRank,Con20Lap,Con20LapRank,Con25Lap,Con25LapRank,Con30Lap,Con30LapRank,PracticeName,race_id
+36,4225,Labbe,Alex Labbe,Chv,Can-Am,139.51525,1,138.94,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+18,4093,Hemric,Daniel Hemric,Tyt,Poppy Bank,140.3146667,2,137.845,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+10,4018,Burton,Jeb Burton,Chv,Nutrien Ag Solutions,140.3468333,3,139.203,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+11,4172,Haley,Justin Haley,Chv,LeafFilter Gutter Protection,140.413,4,139.671,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+16,3774,Allmendinger,AJ Allmendinger,Chv,Pit Boss Grills,140.4341667,5,138.61,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+23,3816,Lally,Andy Lally,Chv,The A Team/MFI Fantasy Racing,140.6768333,6,140.049,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+98,4269,Herbst,Riley Herbst,Frd,Monster Energy,141.02675,7,139.618,11,140.936,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+20,4217,Burton,Harrison Burton,Tyt,DEX Imaging,141.4654286,8,139.812,14,140.421,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+54,454,Busch(i),Kyle Busch(i),Tyt,Skittles Gummies,141.5469091,9,137.989,4,139.13,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+6,4390,Pumpelly,Spencer Pumpelly,Chv,Fast Life/GridRival,141.6022,10,139.812,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+2,4223,Snider,Myatt Snider,Chv,Louisiana Hot Sauce,141.9824286,11,139.432,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+48,4346,Buford,Jade Buford,Chv,Big Machine Spiked Coolers,142.6701667,12,140.951,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+47,4187,Weatherman,Kyle Weatherman,Chv,Beau's Beautiful Blessings,142.9276,13,141.53,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+7,34,Allgaier,Justin Allgaier,Chv,BRANDT,142.9822857,14,139.191,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+17,4104,Custer(i),Cole Custer(i),Frd,Production Alliance Group,143.1702,15,139.888,15,140.473,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+19,4085,Jones,Brandon Jones,Tyt,YeeYee,143.2935714,16,141.956,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+5,1416,Harvick(i),Kevin Harvick(i),Frd,Rush Truck Centers,143.4327,17,140.139,17,140.801,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+66,3984,Hill(i),Timmy Hill(i),Tyt,CrashClaimsR.US,143.7002857,18,143.012,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+22,4180,Cindric,Austin Cindric,Frd,Menards/Richmond,143.733,19,137.778,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+4,3808,Cassill,Landon Cassill,Chv,Voyager,143.825,20,143.312,34,143.928,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+9,4224,Gragson,Noah Gragson,Chv,Bass Pro Shops/TrueTimber/BRCC,144.3425556,21,138.813,6,140.935,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+13,2883,Said,Boris Said,Tyt,Whataburger,144.499875,22,140.776,22,143.595,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+51,595,Clements,Jeremy Clements,Chv,One Stop/ASE,144.9255,23,141.954,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+91,4317,Pardus,Preston Pardus,Chv,Chinchor Electric/Danus,144.981,24,140.402,20,146.954,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+77,3873,Dillon(i),Austin Dillon(i),Chv,Maestro's Classic,145.1083333,25,141.662,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+1,3861,Annett,Michael Annett,Chv,Pilot Flying J myRewards Plus,145.2325,26,141.655,27,145.354,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+31,4065,Reddick(i),Tyler Reddick(i),Chv,Bommarito Automotive Group,145.361125,27,137.963,3,139.629,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+02,4038,Moffitt,Brett Moffitt,Chv,SOKAL,145.4348333,28,141.386,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+99,4029,Ellis,Ryan Ellis,Tyt,CorvetteParts.net/Keen Parts,145.4995714,29,144.241,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+44,3902,Martins,Tommy Joe Martins,Chv,Diamond Gusset Jeans,145.5775,30,140.24,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+52,4103,Gaulding,Gray Gaulding,Chv,Panini America,145.6358333,31,142.049,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+92,4106,Williams,Josh Williams,Chv,Alloy Employer Services,146.1324286,32,143.392,35,147.142,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+68,4118,Brown,Brandon Brown,Chv,Good Sam Club,146.3437143,33,141.596,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+8,3960,Paludo,Miguel Paludo,Chv,BRANDT,146.6415714,34,140.158,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+15,4344,Howard,Colby Howard,Chv,Project Hope Foundation,147.3137143,35,145.027,39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+78,4150,Little,Jesse Little,Tyt,Shriners Hospitals for Children,148.201,36,142.42,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+07,4313,Graf Jr,Joe Graf Jr,Chv,G Coin,148.9639091,37,145.497,40,147.183,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+61,1965,Leicht,Stephen Leicht,Tyt,Janiking,149.6394286,38,143.665,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+90,4259,Bacarella,Caesar Bacarella,Chv,AP Sports Regimen/MAXIM,149.848,39,147.061,41,147.755,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+0,3894,Earnhardt,Jeffrey Earnhardt,Chv,ForeverLawn,150.851625,40,143.628,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098
+26,4364,Wright(i),Kris Wright(i),Tyt,Boot the Ban,157.182,41,140.472,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5098

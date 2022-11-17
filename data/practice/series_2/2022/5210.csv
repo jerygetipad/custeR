@@ -1,0 +1,39 @@
+Number,NASCARDriverID,Driver,FullName,Manufacturer,Sponsor,OverAllAvg,OverAllAvgRank,BestLapTime,BestLapRank,Con5Lap,Con5LapRank,Con10Lap,Con10LapRank,Con15Lap,Con15LapRank,Con20Lap,Con20LapRank,Con25Lap,Con25LapRank,Con30Lap,Con30LapRank,PracticeName,race_id
+54,4368,Gibbs (P),Ty Gibbs (P),Tyt,Monster Energy,31.3683333,1,30.527,1,30.81,2,30.955,1,31.111,1,31.232,1,NA,NA,NA,NA,Final Practice,5210
+26,4092,Nemechek(i),John Hunter Nemechek(i),Tyt,Berry's Bullets,31.3812083,2,30.623,3,30.798,1,30.964,2,31.16,2,31.29,2,NA,NA,NA,NA,Final Practice,5210
+18,3883,Bayne (P),Trevor Bayne (P),Tyt,Devotion Nutrition,31.3861053,3,30.592,2,30.85,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+98,4269,Herbst,Riley Herbst,Frd,Monster Energy,31.4506957,4,30.741,4,30.917,4,31.044,3,31.211,3,NA,NA,NA,NA,NA,NA,Final Practice,5210
+51,595,Clements,Jeremy Clements,Chv,First Pacific Funding,31.452,5,31.002,13,31.217,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+16,3774,Allmendinger (P),AJ Allmendinger (P),Chv,SRS Distribution,31.5233,6,30.8,6,31.124,10,31.247,8,31.374,7,NA,NA,NA,NA,NA,NA,Final Practice,5210
+7,34,Allgaier (P),Justin Allgaier (P),Chv,BRANDT,31.548375,7,31.248,20,31.378,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+1,4327,Mayer (P),Sam Mayer (P),Chv,Accelerate Pros Talent,31.5637037,8,30.805,7,31.098,9,31.22,6,31.332,5,31.447,4,31.53,2,NA,NA,Final Practice,5210
+19,4085,Jones (P),Brandon Jones (P),Tyt,Menards/Nibco,31.5667083,9,30.905,9,30.966,5,31.616,13,31.726,10,NA,NA,NA,NA,NA,NA,Final Practice,5210
+9,4224,Gragson (P),Noah Gragson (P),Chv,Bass Pro Shops/TrueTimber/BRCC,31.6109643,10,30.743,5,30.97,6,31.108,4,31.246,4,31.336,3,31.419,1,NA,NA,Final Practice,5210
+39,3884,Sieg,Ryan Sieg,Frd,CMRroofing.com/A-game,31.6310625,11,31.026,14,31.146,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+78,4142,Smithley,Garrett Smithley,Chv,BJ McLeod Motorsports,31.6376,12,31.437,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+21,4133,Hill # (P),Austin Hill # (P),Chv,United Rentals,31.6536207,13,30.838,8,30.975,7,31.171,5,31.872,12,NA,NA,NA,NA,NA,NA,Final Practice,5210
+11,4093,Hemric,Daniel Hemric,Chv,Alsco Uniforms,31.6601034,14,31.057,15,31.162,12,31.228,7,31.333,6,31.464,5,31.583,3,NA,NA,Final Practice,5210
+8,4123,Berry (P),Josh Berry (P),Chv,Harrison's USA,31.6758333,15,31.43,28,31.498,20,31.591,12,31.623,9,NA,NA,NA,NA,NA,NA,Final Practice,5210
+48,4416,Sanchez,Nicholas Sanchez,Chv,Big Machine Racing Spiked,31.6764706,16,31.148,17,31.194,14,31.393,11,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+28,4388,Sieg #,Kyle Sieg #,Frd,CMRroofing.com,31.6878,17,31.448,30,31.522,23,31.688,15,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+2,4204,Creed #,Sheldon Creed #,Chv,Whelen,31.7472381,18,30.997,12,31.086,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+34,4187,Weatherman,Kyle Weatherman,Chv,eRacing Association,31.7532667,19,31.504,32,31.611,25,31.671,14,31.753,11,NA,NA,NA,NA,NA,NA,Final Practice,5210
+10,3808,Cassill,Landon Cassill,Chv,Voyager: Crypto for All,31.7813846,20,30.951,10,31.218,16,31.391,9,31.463,8,31.614,6,31.76,4,NA,NA,Final Practice,5210
+66,3669,Yeley,JJ Yeley,Tyt,Diamondback Land Surveying,31.8711818,21,31.297,21,31.444,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+23,4301,Alfredo,Anthony Alfredo,Chv,First Phase,31.872,22,31.461,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+31,4223,Snider,Myatt Snider,Chv,TaxSlayer,31.87675,23,31.425,27,31.512,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+44,4422,Caruth(i),Rajah Caruth(i),Chv,Market Rebellion,31.9110667,24,31.415,26,31.627,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+27,4018,Burton,Jeb Burton,Chv,State Water Heaters,31.9292778,25,30.995,11,31.175,13,32.287,18,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+07,4366,Deegan(i),Hailie Deegan(i),Frd,Pristine Auction,31.9536296,26,31.091,16,31.295,17,31.392,10,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+4,4257,Currey,Bayley Currey,Chv,Alka-Seltzer,31.9974167,27,31.412,25,32.111,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+45,4285,Parsons,Stefan Parsons,Chv,Sokal Digital Advertising,32.0057222,28,31.223,18,31.74,28,32.292,19,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+38,4316,McLaughlin,CJ McLaughlin,Frd,SciAps,32.0201818,29,31.335,23,31.551,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+02,4419,Retzlaff,Parker Retzlaff,Chv,Funkaway,32.1406111,30,31.345,24,32.067,29,32.242,17,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+5,4209,Mills(i),Matt Mills(i),Chv,J.F. Electric,32.149,31,31.917,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+68,4364,Wright,Kris Wright,Chv,First National Bank,32.1545714,32,31.332,22,31.512,21,31.744,16,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+36,4106,Williams,Josh Williams,Chv,Alloy Employer Services,32.1747143,33,31.738,35,32.175,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+08,3170,Starr,David Starr,Frd,Amptricity,32.178625,34,31.856,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+6,4320,Vargas,Ryan Vargas,Chv,Swann Security/Best Buy,32.2677273,35,31.586,33,31.712,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+35,3894,Earnhardt,Jeffrey Earnhardt,Tyt,Allsup's,32.3308824,36,31.724,34,32.23,32,32.479,20,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+91,4315,Massey,Mason Massey,Chv,Apollo Energy/Power Center,32.4402727,37,31.246,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210
+13,4381,Jaskol(i),Matt Jaskol(i),Tyt,Auto Parts 4 Less,32.4771111,38,32.084,38,32.503,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5210

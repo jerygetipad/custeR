@@ -1,0 +1,37 @@
+Number,NASCARDriverID,Driver,FullName,Manufacturer,Sponsor,OverAllAvg,OverAllAvgRank,BestLapTime,BestLapRank,Con5Lap,Con5LapRank,Con10Lap,Con10LapRank,Con15Lap,Con15LapRank,Con20Lap,Con20LapRank,Con25Lap,Con25LapRank,Con30Lap,Con30LapRank,PracticeName,race_id
+22,3859,Logano (P),Joey Logano (P),Frd,AAA Insurance,29.122375,1,28.902,4,28.987,1,29.107,1,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+6,1816,Keselowski,Brad Keselowski,Frd,RoushParts.com,29.1630769,2,28.959,9,29.119,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+12,4023,Blaney (P),Ryan Blaney (P),Frd,Menards/Tarkett,29.1889167,3,28.939,7,29.215,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+45,4025,Wallace (P),Bubba Wallace (P),Tyt,MoneyLion,29.1925833,4,28.945,8,29.248,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+11,1361,Hamlin (P),Denny Hamlin (P),Tyt,FedEx Office,29.2504,5,29.06,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+43,4059,Jones,Erik Jones,Chv,FOCUSfactor,29.2957273,6,28.926,5,29.305,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+48,4045,Bowman (P),Alex Bowman (P),Chv,Ally,29.3309444,7,28.881,3,28.994,2,29.152,2,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+8,4065,Reddick,Tyler Reddick,Chv,Lenovo/ThinkEdge,29.34424,8,28.796,2,29.168,5,29.231,3,29.302,1,29.351,1,NA,NA,NA,NA,Final Practice,5177
+20,4153,Bell (P),Christopher Bell (P),Tyt,Rheem - Smurfit Kappa,29.3576667,9,29.191,21,29.355,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+5,4030,Larson (P),Kyle Larson (P),Chv,HendrickCars.com,29.3738,10,28.961,10,29.307,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+3,3873,Dillon,Austin Dillon,Chv,True Velocity,29.3868571,11,28.778,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+19,3368,Truex Jr.,Martin Truex Jr.,Tyt,Bass Pro Shops,29.3936667,12,29.184,18,29.526,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+17,3989,Buescher,Chris Buescher,Frd,Fastenal,29.4045294,13,29.115,16,29.508,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+24,4184,Byron (P),William Byron (P),Chv,RaptorTough.com,29.4198696,14,28.938,6,29.106,3,29.469,4,29.546,2,NA,NA,NA,NA,NA,NA,Final Practice,5177
+1,4001,Chastain (P),Ross Chastain (P),Chv,Renu,29.4400952,15,29.047,13,29.19,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+47,3888,Stenhouse Jr.,Ricky Stenhouse Jr.,Chv,Kroger/NOS,29.4615,16,29.007,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+21,4217,Burton #,Harrison Burton #,Frd,DEX Imaging,29.4665,17,29.043,12,29.222,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+23,4368,Gibbs(i),Ty Gibbs(i),Tyt,Monster Energy,29.4933636,18,29.257,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+18,454,Busch,Kyle Busch,Tyt,Interstate Batteries,29.5053529,19,29.107,15,29.321,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+42,4013,Dillon,Ty Dillon,Chv,Black Rifle Coffee Company,29.5267333,20,29.246,23,29.49,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+10,40,Almirola,Aric Almirola,Frd,Smithfield/IHOP,29.5369333,21,29.341,29,29.402,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+2,4180,Cindric # (P),Austin Cindric # (P),Frd,Discount Tire,29.537375,22,29.249,24,29.433,17,29.595,6,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+34,3832,McDowell,Michael McDowell,Frd,Love's Travel Stops,29.5478462,23,29.359,30,29.506,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+7,4096,LaJoie,Corey LaJoie,Chv,Shelton Energy Solutions,29.5630714,24,29.285,26,29.546,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+31,4172,Haley,Justin Haley,Chv,LeafFilter Gutter Protection,29.6274286,25,29.386,31,29.506,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+38,4231,Gilliland #,Todd Gilliland #,Frd,First Phase,29.6453077,26,29.437,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+4,1416,Harvick,Kevin Harvick,Frd,Hunt Brothers Pizza,29.6685294,27,29.325,27,29.381,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+41,4104,Custer,Cole Custer,Frd,Autodesk/HaasTooling.com,29.680625,28,29.214,22,29.473,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+9,4062,Elliott (P),Chase Elliott (P),Chv,NAPA Auto Parts,29.685875,29,29.189,19,29.38,14,29.486,5,29.576,3,NA,NA,NA,NA,NA,NA,Final Practice,5177
+99,4113,Suarez (P),Daniel Suarez (P),Chv,Aguas Frescas,29.7401429,30,29.174,17,29.455,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+14,4228,Briscoe (P),Chase Briscoe (P),Frd,Rush Truck Centers/Cummins,29.762,31,29.19,20,29.52,25,29.667,8,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+51,4125,Ware,Cody Ware,Frd,Nurtec ODT,29.8922222,32,29.626,33,29.94,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+77,3808,Cassill(i),Landon Cassill(i),Chv,WearMe,29.9251667,33,29.668,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+16,4224,Gragson(i),Noah Gragson(i),Chv,Freedom by Ed Morse,29.92656,34,29.332,28,29.481,20,29.635,7,29.707,4,29.764,2,NA,NA,NA,NA,Final Practice,5177
+15,4142,Smithley(i),Garrett Smithley(i),Frd,Trophy Tractor,29.971,35,29.777,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177
+78,3973,McLeod(i),BJ McLeod(i),Frd,Boss Truck Shops,30.1796,36,29.913,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5177

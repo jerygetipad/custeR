@@ -1,0 +1,37 @@
+Number,NASCARDriverID,Driver,FullName,Manufacturer,Sponsor,OverAllAvg,OverAllAvgRank,BestLapTime,BestLapRank,Con5Lap,Con5LapRank,Con10Lap,Con10LapRank,Con15Lap,Con15LapRank,Con20Lap,Con20LapRank,Con25Lap,Con25LapRank,Con30Lap,Con30LapRank,PracticeName,race_id
+16,4296,Ankrum,Tyler Ankrum,Tyt,LiUNA!,31.1958333,1,30.527,1,30.983,3,31.041,2,31.119,1,NA,NA,NA,NA,NA,NA,Final Practice,5220
+19,4297,Kraus,Derek Kraus,Chv,NAPA AutoCare,31.3635625,2,30.599,3,30.914,2,31.006,1,31.153,2,NA,NA,NA,NA,NA,NA,Final Practice,5220
+51,4387,Heim #,Corey Heim #,Tyt,JBL,31.402,3,30.839,7,31.063,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+99,4107,Rhodes,Ben Rhodes,Tyt,Tenda,31.4462727,4,30.902,12,31.021,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+17,4070,Preece,Ryan Preece,Frd,United Rentals,31.4733,5,30.943,16,31.181,10,31.32,6,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+88,694,Crafton,Matt Crafton,Tyt,Black Label Bacon/Menards,31.474,6,30.92,14,31.439,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+25,3916,Dibenedetto,Matt Dibenedetto,Chv,Rackley Roofing/WAR Shocks,31.4758,7,30.581,2,30.85,1,31.233,3,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+38,4272,Smith,Zane Smith,Frd,Fr8Auctions.com,31.4856111,8,31.036,19,31.192,11,31.293,5,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+15,4342,Gray,Tanner Gray,Frd,Ford Performance,31.50605,9,30.931,15,31.264,16,31.324,7,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+52,4205,Friesen,Stewart Friesen,Tyt,Halmar International,31.5324762,10,30.886,11,31.139,7,31.289,4,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+4,4092,Nemechek,John Hunter Nemechek,Tyt,Pye-Barker Fire & Safety,31.584,11,31.017,17,31.176,9,31.403,11,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+22,4189,Self,Austin Wayne Self,Chv,AM Technical Solutions,31.6226429,12,31.062,23,31.23,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+41,4001,Chastain(i),Ross Chastain(i),Chv,Eat Florida Watermelon,31.6290667,13,30.868,10,31.214,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+1,4366,Deegan,Hailie Deegan,Frd,Wastequip,31.6609412,14,30.8,5,31.38,20,31.649,13,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+66,4235,Majeski,Ty Majeski,Tyt,American Racing Wheels,31.6892273,15,31.038,20,31.167,8,31.359,8,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+98,4268,Eckes,Christian Eckes,Tyt,Curb Records,31.7566154,16,30.903,13,31.198,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+30,4271,Fogleman,Tate Fogleman,Tyt,Rangeline Group,31.856125,17,31.052,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+46,4381,Jaskol,Matt Jaskol,Tyt,AutoParts4Less.com,31.8721,18,31.04,21,31.403,21,31.628,12,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+61,4295,Purdy,Chase Purdy,Tyt,David S Gray Found Love,31.889,19,31.082,24,31.439,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+02,4150,Little,Jesse Little,Chv,Sim Seats,31.8934667,20,31.135,26,31.292,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+24,4391,Wood #,Jack Wood #,Chv,Chevrolet Truck Month,31.924,21,30.792,4,31.212,13,31.362,9,32.118,3,NA,NA,NA,NA,NA,NA,Final Practice,5220
+23,3978,Enfinger,Grant Enfinger,Chv,Champion Power Equipment,31.9398,22,31.107,25,31.468,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+47,4144,Poole(i),Brennan Poole(i),Tyt,LiftKits4Less.com,31.9966923,23,30.848,9,31.325,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+20,4209,Mills(i),Matt Mills(i),Chv,J.F. Electric,32.104625,24,31.319,27,31.712,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+91,4344,Howard,Colby Howard,Chv,Gates Hydraulics,32.1318696,25,30.838,6,31.407,22,31.769,14,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+9,4376,Perkins #,Blaine Perkins #,Chv,Raceline,32.2397222,26,31.022,18,31.285,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+56,3984,Hill,Timmy Hill,Tyt,UNITS Storage,32.243,27,31.393,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+42,4326,Hocevar,Carson Hocevar,Chv,Premier Security Solutions,32.2498,28,31.896,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+40,4414,Thompson #,Dean Thompson #,Chv,Worldwide Express,32.2575,29,31.658,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+33,4408,Hacker,Chris Hacker,Tyt,Dal Dirt,32.3275,30,31.845,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+18,4312,Smith,Chandler Smith,Tyt,Safelite,32.6123125,31,30.845,8,31.133,6,31.4,10,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+45,4371,Alan #,Lawless Alan #,Chv,AUTOParkIt.com,32.6837692,32,31.881,33,32.946,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+43,4415,Moffitt,Thad Moffitt,Chv,Clean Harbors,33.1151667,33,32.502,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+12,4192,Boyd,Spencer Boyd,Chv,Rimtyme,33.2140909,34,32.687,36,32.996,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+3,4139,Anderson,Jordan Anderson,Chv,EasyCare/Bommarito.com,33.3174,35,31.813,31,32.834,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220
+44,4364,Wright,Kris Wright,Chv,F.N.B. Corporation,33.8265385,36,31.624,29,31.789,27,33.659,15,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5220

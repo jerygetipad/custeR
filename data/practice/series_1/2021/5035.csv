@@ -1,0 +1,40 @@
+Number,NASCARDriverID,Driver,FullName,Manufacturer,Sponsor,OverAllAvg,OverAllAvgRank,BestLapTime,BestLapRank,Con5Lap,Con5LapRank,Con10Lap,Con10LapRank,Con15Lap,Con15LapRank,Con20Lap,Con20LapRank,Con25Lap,Con25LapRank,Con30Lap,Con30LapRank,PracticeName,race_id
+5,4030,Larson,Kyle Larson,Chv,Valvoline,30.5885588,1,29.724,1,30.253,1,30.403,1,30.549,1,NA,NA,NA,NA,NA,NA,Final Practice,5035
+24,4184,Byron,William Byron,Chv,Liberty University,30.5955385,2,29.724,2,30.332,2,30.718,10,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+42,4001,Chastain,Ross Chastain,Chv,Clover,30.6063226,3,30.035,7,30.433,4,30.518,2,30.587,2,NA,NA,NA,NA,NA,NA,Final Practice,5035
+12,4023,Blaney,Ryan Blaney,Frd,Menards/Duracell,30.6132286,4,30.276,13,30.406,3,30.584,6,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+6,2394,Newman,Ryan Newman,Frd,Planters,30.6185263,5,30.066,9,30.512,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+48,4045,Bowman,Alex Bowman,Chv,Ally Neon Lights,30.6678696,6,30.102,10,30.523,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+47,3888,Stenhouse Jr.,Ricky Stenhouse Jr.,Chv,Kroger/Nature Valley,30.6908438,7,30,4,30.544,11,30.631,7,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+11,1361,Hamlin,Denny Hamlin,Tyt,FedEx Express,30.7025667,8,30.037,8,30.568,14,30.769,12,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+9,4062,Elliott,Chase Elliott,Chv,NAPA Auto Parts,30.7254054,9,29.735,3,30.508,5,30.581,4,30.635,3,30.67,1,NA,NA,NA,NA,Final Practice,5035
+8,4065,Reddick,Tyler Reddick,Chv,Quartz Hill Records,30.73775,10,30.006,5,30.563,13,30.581,5,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+4,1416,Harvick,Kevin Harvick,Frd,Grave Digger,30.7459167,11,30.486,22,30.54,9,30.57,3,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+10,40,Almirola,Aric Almirola,Frd,Smithfield,30.7512647,12,30.232,12,30.676,18,30.752,11,30.799,6,30.809,2,NA,NA,NA,NA,Final Practice,5035
+21,3916,DiBenedetto,Matt DiBenedetto,Frd,Motorcraft/Quick Lane,30.75675,13,30.325,15,30.54,10,30.787,13,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+17,3989,Buescher,Chris Buescher,Frd,Fifth Third Bank,30.7593667,14,30.401,16,30.54,8,30.642,8,30.732,4,NA,NA,NA,NA,NA,NA,Final Practice,5035
+2,1816,Keselowski,Brad Keselowski,Frd,Dent Wizard,30.7678824,15,30.569,26,30.691,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+18,454,Busch,Kyle Busch,Tyt,Pedigree,30.7681471,16,30.463,21,30.582,15,30.67,9,30.758,5,NA,NA,NA,NA,NA,NA,Final Practice,5035
+20,4153,Bell,Christopher Bell,Tyt,DEWALT,30.7732174,17,30.459,20,30.6,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+1,453,Busch,Kurt Busch,Chv,Monster Energy,30.7771905,18,30.033,6,30.6,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+23,4025,Wallace,Bubba Wallace,Tyt,DoorDash/PetSmart,30.785,19,30.624,28,30.758,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+22,3859,Logano,Joey Logano,Frd,Shell Pennzoil,30.7933939,20,30.421,17,30.679,20,30.817,14,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+37,4070,Preece,* Ryan Preece,Chv,Entenmann's,30.8277143,21,30.447,18,30.785,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+19,3368,Truex Jr.,Martin Truex Jr.,Tyt,Bass Pro,30.8609032,22,30.624,29,30.721,23,30.834,15,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+3,3873,Dillon,Austin Dillon,Chv,Get Bioethanol,30.8876667,23,30.486,23,30.748,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+14,4228,Briscoe #,Chase Briscoe #,Frd,HighPoint.com/Thorlabs,30.8894667,24,30.105,11,30.684,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+34,3832,McDowell,Michael McDowell,Frd,Love's Travel Stops,30.8907353,25,30.513,25,30.561,12,30.981,17,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+43,4059,Jones,Erik Jones,Chv,Black Entrepreneur Initiative,30.9090909,26,30.301,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+41,4104,Custer,Cole Custer,Frd,Dixie Vodka Tony's Tea,30.9248696,27,30.628,30,30.777,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+7,4096,LaJoie,Corey LaJoie,Chv,Pryor & Lee,30.9672143,28,30.448,19,30.963,28,30.999,18,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+99,4113,Suarez,Daniel Suarez,Chv,Tootsies Orchid Lounge,31.0496061,29,30.502,24,31.031,29,31.093,19,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+38,4301,Alfredo #,Anthony Alfredo #,Frd,Speedco,31.1184706,30,30.61,27,30.678,19,30.856,16,31.045,7,NA,NA,NA,NA,NA,NA,Final Practice,5035
+51,3669,Yeley(i),JJ Yeley(i),Chv,Nurtec ODT,31.2236111,31,30.858,31,31.186,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+77,4172,Haley(i),Justin Haley(i),Chv,Diamond Creek Water,31.4241071,32,31.151,33,31.279,31,31.475,20,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+78,3973,McLeod(i),BJ McLeod(i),Frd,Surface Sunscreen/Koolbox ICE,31.9405385,33,31.538,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+52,4213,Bilicki,Josh Bilicki,Frd,Insurance King,31.9443333,34,31.545,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+00,4229,Houff,Quin Houff,Chv,Mane 'n Tail/Spirit Untamed,31.9741818,35,31.67,36,31.789,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+66,4232,Finchum(i),* Chad Finchum(i),Tyt,Smithbilt Homes,32.163,36,31.731,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+53,4142,Smithley(i),Garrett Smithley(i),Chv,Smart Sanitizer,32.3705714,37,31.127,32,32.413,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+15,4004,Gase(i),Joey Gase(i),Chv,Tennessee Donor Services/Donate Life,32.6716316,38,32.174,39,32.883,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035
+13,3170,Starr(i),* David Starr(i),Tyt,Bob Menery,33.0234286,39,32.165,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5035

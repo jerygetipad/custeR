@@ -1,0 +1,73 @@
+Number,NASCARDriverID,Driver,FullName,Manufacturer,Sponsor,OverAllAvg,OverAllAvgRank,BestLapTime,BestLapRank,Con5Lap,Con5LapRank,Con10Lap,Con10LapRank,Con15Lap,Con15LapRank,Con20Lap,Con20LapRank,Con25Lap,Con25LapRank,Con30Lap,Con30LapRank,PracticeName,race_id
+45,453,Busch,Kurt Busch,Tyt,Monster Energy,21.1419245,1,20.157,6,20.307,4,20.36,2,21.133,8,21.054,5,NA,NA,NA,NA,Practice 1,5154
+3,3873,Dillon,Austin Dillon,Chv,Bass Pro Shops/Tracker Off Road,21.1470435,2,20.233,12,20.39,9,20.482,4,21.036,6,20.984,2,NA,NA,NA,NA,Practice 1,5154
+1,4001,Chastain,Ross Chastain,Chv,Advent Health,21.1913333,3,19.636,1,20.231,1,20.948,28,20.994,4,20.995,3,NA,NA,NA,NA,Practice 1,5154
+99,4113,Suarez,Daniel Suarez,Chv,Tootsies Orchid Lounge,21.2087609,4,20.312,20,20.411,12,20.609,9,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5154
+8,4065,Reddick,Tyler Reddick,Chv,3CHI,21.2178793,5,20.017,2,20.322,5,20.412,3,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5154
+18,454,Busch,Kyle Busch,Tyt,Mars Crunchy Cookie,21.2562727,6,20.068,4,20.251,3,20.671,11,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5154
+11,1361,Hamlin,Denny Hamlin,Tyt,FedEx Ground,21.2746296,7,20.283,15,20.385,7,20.888,24,21.734,19,NA,NA,NA,NA,NA,NA,Practice 1,5154
+5,4030,Larson,Kyle Larson,Chv,HendrickCars.com,21.309122,8,20.287,16,20.432,13,20.676,12,21.581,13,NA,NA,NA,NA,NA,NA,Practice 1,5154
+38,4231,Gilliland #,Todd Gilliland #,Frd,First Phase Credit Card,21.3176667,9,20.208,8,20.435,14,20.618,10,21.721,18,NA,NA,NA,NA,NA,NA,Practice 1,5154
+23,4025,Wallace,Bubba Wallace,Tyt,Columbia Sportswear Company,21.3194222,10,20.281,14,20.571,26,21.24,31,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5154
+17,3989,Buescher,Chris Buescher,Frd,Fastenal,21.322625,11,20.237,13,20.392,10,20.754,17,21.403,11,NA,NA,NA,NA,NA,NA,Practice 1,5154
+47,3888,Stenhouse Jr.,Ricky Stenhouse Jr.,Chv,Kroger/Irish Spring,21.3279412,12,20.175,7,20.247,2,20.301,1,21.63,15,NA,NA,NA,NA,NA,NA,Practice 1,5154
+19,3368,Truex Jr.,Martin Truex Jr.,Tyt,Auto-Owners Insurance,21.370449,13,20.378,23,20.52,20,20.775,20,21.903,22,NA,NA,NA,NA,NA,NA,Practice 1,5154
+42,4013,Dillon,Ty Dillon,Chv,Food City/Gain,21.3794912,14,20.21,9,20.517,19,20.594,8,21.61,14,NA,NA,NA,NA,NA,NA,Practice 1,5154
+12,4023,Blaney,Ryan Blaney,Frd,Menards/Dutch Boy,21.4016812,15,20.299,17,20.38,6,20.716,13,21.357,10,21.489,7,21.582,1,NA,NA,Practice 1,5154
+20,4153,Bell,Christopher Bell,Tyt,DeWalt,21.4202162,16,20.227,10,20.592,28,21.966,32,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5154
+4,1416,Harvick,Kevin Harvick,Frd,Busch Latte,21.4219683,17,20.43,26,20.587,27,20.91,25,20.934,3,21.349,6,NA,NA,NA,NA,Practice 1,5154
+7,4096,LaJoie,Corey LaJoie,Chv,Nations Guard,21.4511846,18,20.495,31,20.674,31,20.725,15,21.028,5,NA,NA,NA,NA,NA,NA,Practice 1,5154
+6,1816,Keselowski,Brad Keselowski,Frd,Solomon Plumbing,21.4524746,19,20.38,24,20.558,24,20.748,16,20.889,2,21.018,4,NA,NA,NA,NA,Practice 1,5154
+34,3832,McDowell,Michael McDowell,Frd,Love's Travel Stops,21.4804359,20,20.453,29,20.531,22,20.793,21,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5154
+22,3859,Logano,Joey Logano,Frd,Shell Pennzoil,21.4823333,21,20.304,19,20.396,11,20.525,6,20.866,1,20.864,1,22.12,3,NA,NA,Practice 1,5154
+43,4059,Jones,Erik Jones,Chv,Food City/Tide,21.48535,22,20.301,18,20.514,18,20.814,22,21.815,20,NA,NA,NA,NA,NA,NA,Practice 1,5154
+10,40,Almirola,Aric Almirola,Frd,Cummins/Rush Truck Centers,21.5033214,23,20.387,25,20.492,17,20.917,26,21.996,24,NA,NA,NA,NA,NA,NA,Practice 1,5154
+24,4184,Byron,William Byron,Chv,Liberty University,21.5045472,24,20.324,21,20.533,23,20.591,7,21.302,9,NA,NA,NA,NA,NA,NA,Practice 1,5154
+51,4125,Ware,Cody Ware,Frd,Nurtec ODT,21.6283103,25,20.617,34,20.934,36,21.181,30,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5154
+31,4172,Haley,Justin Haley,Chv,LeafFilter Gutter Protection,21.6607273,26,20.073,5,20.461,15,21.164,29,21.909,23,NA,NA,NA,NA,NA,NA,Practice 1,5154
+16,4224,Gragson(i),Noah Gragson(i),Chv,Chevy Truck Month,21.6816613,27,20.537,33,20.762,34,20.836,23,21.095,7,NA,NA,NA,NA,NA,NA,Practice 1,5154
+2,4180,Cindric #,Austin Cindric #,Frd,Discount Tire,21.8394444,28,20.628,35,20.725,32,20.921,27,21.633,16,21.727,9,21.756,2,NA,NA,Practice 1,5154
+77,34,Allgaier(i),Justin Allgaier(i),Chv,BRANDT,21.8584444,29,20.49,30,20.666,30,20.763,19,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5154
+14,4228,Briscoe,Chase Briscoe,Frd,HighPoint.com,21.911102,30,20.055,3,20.468,16,20.759,18,21.447,12,22.224,10,NA,NA,NA,NA,Practice 1,5154
+41,4104,Custer,Cole Custer,Frd,Jacob Construction/HaasTooling,22.1822037,31,20.363,22,20.53,21,20.718,14,21.879,21,NA,NA,NA,NA,NA,NA,Practice 1,5154
+78,4106,Williams(i),Josh Williams(i),Frd,Alloy Employment Services,22.1975556,32,20.431,27,20.748,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5154
+48,4045,Bowman,Alex Bowman,Chv,Ally,22.4021176,33,20.527,32,20.612,29,23.515,34,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5154
+9,4062,Elliott,Chase Elliott,Chv,Kelley Blue Book,22.4111373,34,20.232,11,20.386,8,20.523,5,21.716,17,21.648,8,NA,NA,NA,NA,Practice 1,5154
+15,3669,Yeley(i),JJ Yeley(i),Frd,Georgia Strong/JAG Metals LLC,22.7323478,35,20.437,28,20.567,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Practice 1,5154
+21,4217,Burton #,Harrison Burton #,Frd,Dex Imaging,23.1176739,36,20.684,36,20.798,35,22.125,33,22.755,25,NA,NA,NA,NA,NA,NA,Practice 1,5154
+6,1816,Keselowski,Brad Keselowski,Frd,Solomon Plumbing,21.2363182,1,20.794,10,21.044,15,21.167,22,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5154
+5,4030,Larson,Kyle Larson,Chv,HendrickCars.com,21.2660862,2,20.72,6,20.887,5,21.003,3,21.023,2,21.085,1,21.11,1,21.429,8,Final Practice,5154
+48,4045,Bowman,Alex Bowman,Chv,Ally,21.2820541,3,20.817,13,21.06,18,21.085,12,21.175,9,21.347,10,NA,NA,NA,NA,Final Practice,5154
+20,4153,Bell,Christopher Bell,Tyt,DeWalt,21.2871404,4,20.707,5,20.861,3,21.005,4,21.814,29,NA,NA,NA,NA,NA,NA,Final Practice,5154
+22,3859,Logano,Joey Logano,Frd,Shell Pennzoil,21.2969516,5,20.729,7,20.945,7,21.064,9,21.114,4,21.455,14,21.495,14,NA,NA,Final Practice,5154
+24,4184,Byron,William Byron,Chv,Liberty University,21.3005517,6,20.815,12,21.058,17,21.095,15,21.159,8,NA,NA,NA,NA,NA,NA,Final Practice,5154
+1,4001,Chastain,Ross Chastain,Chv,Advent Health,21.3242308,7,20.993,27,21.098,26,21.276,27,21.31,17,21.353,12,NA,NA,NA,NA,Final Practice,5154
+38,4231,Gilliland #,Todd Gilliland #,Frd,First Phase Credit Card,21.3904444,8,20.683,3,20.867,4,21.037,6,21.229,13,21.282,5,21.323,5,21.375,4,Final Practice,5154
+31,4172,Haley,Justin Haley,Chv,LeafFilter Gutter Protection,21.3967895,9,20.751,8,21.095,24,21.341,29,21.369,20,21.407,13,21.428,10,21.452,9,Final Practice,5154
+12,4023,Blaney,Ryan Blaney,Frd,Menards/Dutch Boy,21.3991882,10,20.856,15,20.991,13,21.082,11,21.109,3,21.159,2,21.203,2,21.227,1,Final Practice,5154
+11,1361,Hamlin,Denny Hamlin,Tyt,FedEx Ground,21.4371646,11,20.638,1,20.894,6,21.015,5,21.14,6,21.5,18,21.488,13,NA,NA,Final Practice,5154
+18,454,Busch,Kyle Busch,Tyt,Mars Crunchy Cookie,21.4561486,12,20.668,2,20.958,9,21.051,8,21.199,10,21.351,11,NA,NA,NA,NA,Final Practice,5154
+3,3873,Dillon,Austin Dillon,Chv,Bass Pro Shops/Tracker Off Road,21.4696176,13,20.875,18,20.989,12,21.066,10,21.153,7,21.32,8,21.369,9,21.427,7,Final Practice,5154
+42,4013,Dillon,Ty Dillon,Chv,Food City/Gain,21.4746538,14,20.958,24,21.071,20,21.109,19,21.341,18,21.469,15,21.476,11,21.565,14,Final Practice,5154
+4,1416,Harvick,Kevin Harvick,Frd,Busch Latte,21.4813537,15,20.985,26,21.083,22,21.146,20,21.35,19,21.511,20,21.482,12,21.493,12,Final Practice,5154
+17,3989,Buescher,Chris Buescher,Frd,Fastenal,21.4843125,16,20.859,16,21.042,14,21.093,13,21.439,24,21.484,16,NA,NA,NA,NA,Final Practice,5154
+14,4228,Briscoe,Chase Briscoe,Frd,HighPoint.com,21.4930182,17,20.888,19,21.046,16,21.095,14,21.433,22,NA,NA,NA,NA,NA,NA,Final Practice,5154
+23,4025,Wallace,Bubba Wallace,Tyt,Columbia Sportswear Company,21.4934302,18,20.963,25,21.118,27,21.148,21,21.236,14,21.258,4,21.29,3,21.313,2,Final Practice,5154
+45,453,Busch,Kurt Busch,Tyt,Monster Energy,21.4940794,19,20.919,22,21.062,19,21.243,25,21.433,23,NA,NA,NA,NA,NA,NA,Final Practice,5154
+8,4065,Reddick,Tyler Reddick,Chv,3CHI,21.4957308,20,20.695,4,20.788,1,20.851,1,20.984,1,21.599,21,21.546,15,21.461,10,Final Practice,5154
+41,4104,Custer,Cole Custer,Frd,Jacob Construction/HaasTooling,21.501747,21,20.899,20,21.096,25,21.194,24,21.253,16,21.29,6,21.346,6,21.469,11,Final Practice,5154
+9,4062,Elliott,Chase Elliott,Chv,Kelley Blue Book,21.5377347,22,20.946,23,21.072,21,21.097,18,21.117,5,21.324,9,21.348,7,21.398,5,Final Practice,5154
+7,4096,LaJoie,Corey LaJoie,Chv,Nations Guard,21.5448519,23,20.868,17,21.093,23,21.186,23,21.501,25,NA,NA,NA,NA,NA,NA,Final Practice,5154
+47,3888,Stenhouse Jr.,Ricky Stenhouse Jr.,Chv,Kroger/Irish Spring,21.5509342,24,20.758,9,20.859,2,20.932,2,21.221,11,21.495,17,21.574,16,21.494,13,Final Practice,5154
+19,3368,Truex Jr.,Martin Truex Jr.,Tyt,Auto-Owners Insurance,21.5552667,25,21.108,33,21.286,33,21.357,30,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5154
+10,40,Almirola,Aric Almirola,Frd,Cummins/Rush Truck Centers,21.5628352,26,20.905,21,20.985,11,21.096,16,21.226,12,21.254,3,21.312,4,21.357,3,Final Practice,5154
+16,4224,Gragson(i),Noah Gragson(i),Chv,Chevy Truck Month,21.61233,27,20.809,11,20.983,10,21.097,17,21.24,15,21.305,7,21.354,8,21.422,6,Final Practice,5154
+43,4059,Jones,Erik Jones,Chv,Food City/Tide,21.621,28,21.062,30,21.209,29,21.969,36,22.144,31,NA,NA,NA,NA,NA,NA,Final Practice,5154
+51,4125,Ware,Cody Ware,Frd,Nurtec ODT,21.6219792,29,20.999,28,21.309,34,21.534,34,21.605,28,21.671,23,21.752,19,21.727,15,Final Practice,5154
+2,4180,Cindric #,Austin Cindric #,Frd,Discount Tire,21.6331143,30,21.091,32,21.349,35,21.485,32,21.83,30,NA,NA,NA,NA,NA,NA,Final Practice,5154
+99,4113,Suarez,Daniel Suarez,Chv,Tootsies Orchid Lounge,21.6414375,31,21.12,34,21.272,31,21.329,28,21.502,26,NA,NA,NA,NA,NA,NA,Final Practice,5154
+34,3832,McDowell,Michael McDowell,Frd,Love's Travel Stops,21.6810723,32,20.855,14,20.957,8,21.039,7,21.605,27,21.632,22,21.602,17,NA,NA,Final Practice,5154
+77,34,Allgaier(i),Justin Allgaier(i),Chv,BRANDT,21.6923261,33,21.193,36,21.284,32,21.604,35,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5154
+21,4217,Burton #,Harrison Burton #,Frd,Dex Imaging,21.7505625,34,21.058,29,21.173,28,21.269,26,21.415,21,21.508,19,21.702,18,21.767,16,Final Practice,5154
+15,3669,Yeley(i),JJ Yeley(i),Frd,Georgia Strong/JAG Metals LLC,21.9695122,35,21.078,31,21.448,36,21.486,33,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5154
+78,4106,Williams(i),Josh Williams(i),Frd,Alloy Employment Services,22.1495625,36,21.124,35,21.256,30,21.375,31,22.158,32,NA,NA,NA,NA,NA,NA,Final Practice,5154

@@ -1,0 +1,38 @@
+Number,NASCARDriverID,Driver,FullName,Manufacturer,Sponsor,OverAllAvg,OverAllAvgRank,BestLapTime,BestLapRank,Con5Lap,Con5LapRank,Con10Lap,Con10LapRank,Con15Lap,Con15LapRank,Con20Lap,Con20LapRank,Con25Lap,Con25LapRank,Con30Lap,Con30LapRank,PracticeName,race_id
+5,4030,Larson,Kyle Larson,Chv,HendrickCars.com,30.0046667,1,29.589,1,29.88,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+1,4001,Chastain,Ross Chastain,Chv,Advent Health,30.2106471,2,29.703,3,30.537,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+7,4096,LaJoie,Corey LaJoie,Chv,The USO & Coca-Cola,30.2355,3,30.013,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+24,4184,Byron,William Byron,Chv,Liberty University Patriotic,30.2907647,4,29.897,12,30.04,8,30.393,5,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+20,4153,Bell,Christopher Bell,Tyt,Yahoo!,30.2922105,5,29.983,15,30.164,11,30.274,3,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+2,4180,Cindric #,Austin Cindric #,Frd,Menards/Cardell Cabinetry,30.3076471,6,29.705,4,29.976,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+23,4025,Wallace,Bubba Wallace,Tyt,McDonald's,30.3089375,7,29.937,13,30.108,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+18,454,Busch,Kyle Busch,Tyt,M&M's Red White and Blue,30.3682778,8,29.753,6,30.427,18,30.607,10,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+48,4045,Bowman,Alex Bowman,Chv,Ally Patriotic,30.3746471,9,29.637,2,29.923,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+11,1361,Hamlin,Denny Hamlin,Tyt,FedEx Ground,30.40405,10,29.758,7,30.018,6,30.59,9,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+15,4070,Preece(i),Ryan Preece(i),Frd,Hunt Brothers Pizza,30.4255556,11,30.188,20,30.308,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+9,4062,Elliott,Chase Elliott,Chv,NAPA,30.4596842,12,29.963,14,30.099,9,30.275,4,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+19,3368,Truex Jr.,Martin Truex Jr.,Tyt,Bass Pro Shops Red White and Blue,30.4990455,13,29.73,5,29.877,1,30.139,1,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+45,453,Busch,Kurt Busch,Tyt,Monster Energy,30.5078333,14,30.075,17,30.364,15,30.426,6,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+12,4023,Blaney,Ryan Blaney,Frd,BodyArmor EDGE,30.5485,15,29.847,9,30.023,7,30.182,2,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+43,4059,Jones,Erik Jones,Chv,FOCUSfactor,30.5795882,16,29.885,11,30.476,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+34,3832,McDowell,Michael McDowell,Frd,Fr8Auctions.com,30.58375,17,30.146,18,30.608,27,30.663,11,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+8,4065,Reddick,Tyler Reddick,Chv,Cheddar's Scratch Kitchen,30.6166957,18,30.206,22,30.326,14,30.489,7,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+17,3989,Buescher,Chris Buescher,Frd,Fifth Third Bank,30.617,19,30.161,19,30.579,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+31,4172,Haley,Justin Haley,Chv,LeafFilter Gutter Protection,30.625,20,30.287,26,30.856,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+41,4104,Custer,Cole Custer,Frd,Chicken Cock Whiskey,30.6355294,21,30.266,24,30.369,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+38,4231,Gilliland #,Todd Gilliland #,Frd,Boot Barn,30.6747059,22,30.232,23,30.616,28,30.723,13,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+47,3888,Stenhouse Jr.,Ricky Stenhouse Jr.,Chv,Kroger/Reese's,30.6880909,23,30.424,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+6,1816,Keselowski,Brad Keselowski,Frd,Kohler Generators,30.7069167,24,30.306,28,30.405,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+14,4228,Briscoe,Chase Briscoe,Frd,Mahindra Tractors,30.7275882,25,30.206,21,30.472,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+22,3859,Logano,Joey Logano,Frd,Shell Pennzoil,30.7514211,26,29.853,10,30.273,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+16,4224,Gragson(i),Noah Gragson(i),Chv,Charlotte Knights,30.7753,27,30.369,29,30.583,26,30.739,14,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+10,40,Almirola,Aric Almirola,Frd,Smithfield,30.7882222,28,30.277,25,30.454,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+4,1416,Harvick,Kevin Harvick,Frd,Mobil 1,30.81245,29,30.395,30,30.572,24,30.688,12,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+99,4113,Suarez,Daniel Suarez,Chv,CommScope,30.8344444,30,29.802,8,29.993,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+21,4217,Burton #,Harrison Burton #,Frd,Motorcraft/Quick Lane,30.8384583,31,30.294,27,30.449,19,30.585,8,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+78,3973,McLeod,BJ McLeod,Frd,Circle B Diecast,30.9596667,32,30.909,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+42,4013,Dillon,Ty Dillon,Chv,Black Rifle Coffee Company,31.0570526,33,30.666,32,30.819,30,30.923,16,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+3,3873,Dillon,Austin Dillon,Chv,Bass Pro Shops/Tracker,31.2981364,34,30.73,33,30.804,29,30.839,15,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+51,4125,Ware,Cody Ware,Frd,Nurtec ODT Military Salutes,31.4895,35,30.738,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+77,4213,Bilicki(i),Josh Bilicki(i),Chv,Zeigler Auto Group,31.7109375,36,31.251,36,31.548,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
+50,4191,Grala(i),* Kaz Grala(i),Chv,SEGI TV,32.0851429,37,31.795,37,32.001,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Final Practice,5161
