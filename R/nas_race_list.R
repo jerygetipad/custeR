@@ -13,8 +13,8 @@
 #' @export
 nas_race_list <- function(year=2022, series=1) {
   for(yr in year) {
-    URL = paste0("https://cf.nascar.com/cacher/",yr,"/race_list_basic.json")
-    schedule_feed=jsonlite::read_json(URL)
+    url = paste0("https://cf.nascar.com/cacher/",yr,"/race_list_basic.json")
+    schedule_feed=jsonlite::read_json(url)
     srs = paste0("series_",series)
 
     for(i in srs) {
@@ -31,5 +31,6 @@ nas_race_list <- function(year=2022, series=1) {
       data= data %>% distinct()
     }
   }
+  return(data)
 }
 
