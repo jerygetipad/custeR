@@ -13,7 +13,7 @@
 nas_pits <- function(year=2022,series=1) {
   # Get Race Id's for given year + series
   url <- paste0("./data/race_list/series_",series,"/race_list_",year,".csv")
-  race_list <- try(readr::read_csv(url,show_col_types = F),silent = T)
+  race_list <- try(readr::read_csv(url,show_col_types = FALSE),silent = TRUE)
   if(class(race_list)[1]=="try-error") {
     stop("Invalid Arguments or No data available for the given series/year")
   }
@@ -21,14 +21,16 @@ nas_pits <- function(year=2022,series=1) {
   if (length(races)==0) {
     stop("No lap time data found for the specified year")
   }
-  #
+  # Initialize Loop Variables
   masterpits <- data.frame()
   counter <- 1
-  no_data = c(); l=1;
+  no_data <- c()
+  l <- 1
+  #
   for(r in races) {
     url = paste0("https://cf.nascar.com/cacher/live/series_",series,"/",r,"/live-pit-data.json")
     suppressWarnings({
-      pits <- try(jsonlite::read_json(path = url),silent=T)
+      pits <- try(jsonlite::read_json(path = url),silent=TRUE)
     })
     if(class(pits)=="try-error") {
       no_data[l] <- r; l = l+1

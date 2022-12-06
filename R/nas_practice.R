@@ -2,7 +2,7 @@
 #'
 #' Pulls Practice Lap Averages for seasons and series mentioned from NASCAR.com. This dataset contains the race ids.
 #'
-#' @param years The year 2022.
+#' @param year The year 2022.
 #' @param series 1=Cup, 2=Xfinity, 3=Trucks.
 #' @returns A data frame of race information.
 #'
@@ -16,19 +16,21 @@
 #' @export
 nas_practice <- function(year=2022,series=1) {
   # Get Race Id's for given year + series
-  tmp = paste0("./data/race_list/series_",series,"/race_list_",year,".csv")
+  tmp <- paste0("./data/race_list/series_",series,"/race_list_",year,".csv")
   race_list <- try(readr::read_csv(tmp,show_col_types = F), silent = T)
   if(class(race_list)[1]=="try-error") {
     stop("Invalid Arguments or No data available for the given series/year")
   }
-  races = race_list$race_id[race_list$race_type_id==1]
+  races <- race_list$race_id[race_list$race_type_id==1]
   if (length(races)==0) {
     stop("No lap time data found for the specified year")
   }
-  #
+  # Initialize Loop Variables
   all_races <- list()
   counter <- 1
-  no_data = c(); l=1;
+  no_data <- c()
+  l <- 1
+  #
   for(r in races) {
     # Get practive lap data from NASCAR website
     url <- paste0("https://cf.nascar.com/cacher/",year,"/",series,"/",r,"/lap-averages.json")
@@ -36,7 +38,7 @@ nas_practice <- function(year=2022,series=1) {
       raw_practice <- try(jsonlite::read_json(path = url),silent = T)
     })
     if(class(raw_practice)=="try-error") {
-      no_data[l] <- r; l = l+1;
+      no_data[l] <- r; l <- l+1;
       next;
     }
     practice_type <- unlist(lapply(1:length(raw_practice),function(x) raw_practice[[x]]$Title))

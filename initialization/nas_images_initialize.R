@@ -1,3 +1,5 @@
+
+
 nas_images_initialize <- function() {
   url = "https://cf.nascar.com/cacher/drivers.json"
   driver_info <- try(jsonlite::read_json(path = url))[[3]]
