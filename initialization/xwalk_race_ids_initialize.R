@@ -17,7 +17,6 @@ xwalk_race_ids <- function() {
         schedule_feed=jsonlite::read_json(url)
         series = paste0("series_",c(1,2,3))
 
-
         for(i in series) {
           if(is.null(schedule_feed[[i]])) {next}
           data <- schedule_feed[[i]]
@@ -30,16 +29,13 @@ xwalk_race_ids <- function() {
           for(j in 1:len) {
             tmpdata = data[[j]]
 
-            #inf="NA"
-            #if(length(tmpdata$infractions)>0) {inf=tmpdata$infractions}
-            #infractions <- rbind(infractions, c(tmpdata$race_id,inf))
             tmpdata[c("schedule","infractions")] <- NULL
             tmpdata <- tmpdata[c("race_id","series_id","race_season")]
             data[[j]] <- tmpdata
           }
           data = data.table::rbindlist(data)
           data$rr_id <- sprintf("%02d", 1:len)
-          xwalk <- rbind(xwalk,data) %>%
+          xwalk <- rbind(xwalk,data) |>
             dplyr::distinct()
         }
       }
@@ -47,3 +43,4 @@ xwalk_race_ids <- function() {
   )
   return(xwalk)
 }
+xwalk_race_ids <- xwalk_race_ids()

@@ -6,20 +6,36 @@
 #' @returns A data frame of schedule information.
 #'
 #' @examples
-#' nas_schedule(year=2022)
-#' nas_schedule(year=c(2021,2022))
+#' nas_schedule(years=2022)
+#' nas_schedule(years=c(2021,2022))
 
 nas_schedule <- function(years=2022) {
-  masterschedule <- data.frame()
-  for(i in years) {
-    url <- paste0("https://cf.nascar.com/cacher/",i,"/1/schedule-feed.json")
-    schedule_feed <- jsonlite::read_json(url)
-    schedule <- data.table::rbindlist(schedule_feed)
-    schedule$year <- i
-    masterschedule <- rbind(masterschedule,schedule)
-    ##readr::write_csv(x=schedule,file=paste0("schedules/schedule_",i,".csv"))
+  schedule_all <- data.frame()
+  if (!(all(years %in% c(2017:2022)))) {
+    stop("No lap time data found for the specified year/series")
   }
-  return(masterschedule)
+  for(i in years) {
+
+    URL <- paste0("https://cf.nascar.com/cacher/",i,"/1/schedule-feed.json")
+
+    schedule_year <- try(jsonlite::read_json(path = URL),silent = TRUE)
+
+    if(inherits(schedule_year,"try-error")) {
+      stop(paste0("No schedule data for year: ",i))
+    }
+    schedule_year <- schedule_year  |>
+      data.table::rbindlist(fill=TRUE) |>
+      dplyr::mutate(
+        year=i
+      )
+    schedule_all <-
+      rbind(
+        schedule_all,
+        schedule_year,
+        fill=TRUE
+     )
+  }
+  return(schedule_all)
 }
 
 

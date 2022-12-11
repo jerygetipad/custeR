@@ -15,8 +15,10 @@ nas_images_update <- function() {
   old[is.na(old)]<-""
 
   rows_to_update <- lapply(new$Nascar_Driver_ID,function(x) {
-    oldrow = unlist(old[old$Nascar_Driver_ID==x,])
-    newrow = unlist(new[new$Nascar_Driver_ID==x,])
+    oldrow = old[old$Nascar_Driver_ID==x,] |>
+      unlist()
+    newrow = new[new$Nascar_Driver_ID==x,] |>
+      unlist()
     if(!identical(oldrow,newrow)) {return(x)}
   }) |>
     unlist()
@@ -31,9 +33,9 @@ nas_images_update <- function() {
   #
   for(i in rows_to_update) {
     driver_id <- new$Nascar_Driver_ID[new$Nascar_Driver_ID==i]
-    badge = new$Badge_Image[new$Nascar_Driver_ID==i]
-    image_small = new$Image_Small[new$Nascar_Driver_ID==i]
-    firesuit_small = new$Firesuit_Image_Small[new$Nascar_Driver_ID==i]
+    badge <- new$Badge_Image[new$Nascar_Driver_ID==i]
+    image_small <- new$Image_Small[new$Nascar_Driver_ID==i]
+    firesuit_small <- new$Firesuit_Image_Small[new$Nascar_Driver_ID==i]
     if(badge!="") {
       download.file(badge,paste0(badge_dir,"/",driver_id,".png"), mode = 'wb')
     }

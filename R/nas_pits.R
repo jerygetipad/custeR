@@ -1,8 +1,8 @@
 #' Get Pit Data
 #'
-#' Gets Pit Stop Data for the 2022 NASCAR Season from NASCAR.com
+#' Gets Pit Stop Data for NASCAR Seasons 2017-2022 from NASCAR.com
 #'
-#' @param year The year 2022.
+#' @param year Any year 2017-2022.
 #' @param series 1=Cup, 2=Xfinity, 3=Trucks.
 #' @returns A data frame of pit stops.
 #'
@@ -11,42 +11,57 @@
 
 #' @export
 nas_pits <- function(year=2022,series=1) {
-  # Get Race Id's for given year + series
-  url <- paste0("./data/race_list/series_",series,"/race_list_",year,".csv")
-  race_list <- try(readr::read_csv(url,show_col_types = FALSE),silent = TRUE)
-  if(class(race_list)[1]=="try-error") {
-    stop("Invalid Arguments or No data available for the given series/year")
+  # Check for valid arguments
+  if ( !(year %in% c(2018:2022)) | !(series %in% c(1,2,3))) {
+    stop("No lap time data found for the specified year/series")
   }
-  races <- race_list$race_id[race_list$race_type_id==1]
+  # Get Race Id's for given year + series
+  load("data/xwalk_race_ids.Rda")
+
+  races <- xwalk_race_ids |>
+    dplyr::filter(race_season==year & series_id==series) |>
+    dplyr::select(race_id) |>
+    unlist()
+
   if (length(races)==0) {
     stop("No lap time data found for the specified year")
   }
-  # Initialize Loop Variables
-  masterpits <- data.frame()
-  counter <- 1
-  no_data <- c()
-  l <- 1
   #
-  for(r in races) {
-    url = paste0("https://cf.nascar.com/cacher/live/series_",series,"/",r,"/live-pit-data.json")
-    suppressWarnings({
-      pits <- try(jsonlite::read_json(path = url),silent=TRUE)
-    })
-    if(class(pits)=="try-error") {
-      no_data[l] <- r; l = l+1
-      next
-    }
-    pits <- do.call(rbind, lapply(pits, data.frame))
-
-    pits$id <- NULL
-    pits$race_id <- r
-
-    masterpits <- rbind(masterpits,pits)
-    #write_csv(x = pits,file = paste0("./files/pits/series_",series,"/",year,"/",r,".csv"))
+  if(year %in% c(2018,2019)) {
+    # Initialize Loop Variables
+    masterpits <- data.frame()
+    counter <- 1
+    no_data <- c()
+    l <- 1
+    #
+    pit_stops <- lapply(1:length(races), function(x) {
+      message(races[x])
+      url = paste0("https://cf.nascar.com/cacher/live/series_",series,"/",r,"/live-pit-data.json")
+      suppressWarnings({
+        pits <- try(jsonlite::read_json(path = url),silent=TRUE)
+      })
+      if(inherits(weekend_feed,"try-error")) {
+        return(list())
+      }
+      pit_stops <- pits |>
+        data.table::rbindlist() |>
+        dplyr::mutate(race_id = races[x])
+    }) |> data.table::rbindlist()
+  } else {
+    pit_stops <- lapply(1:length(races), function(x) {
+      message(races[x])
+      url=paste0("https://cf.nascar.com/cacher/",year,"/",series,"/",races[x],"/weekend-feed.json")
+      suppressWarnings({
+        weekend_feed <- try(jsonlite::read_json(path = url),silent=TRUE)
+      })
+      if(inherits(weekend_feed,"try-error")) {
+        return(list())
+      }
+      pit_stops <- weekend_feed$weekend_race[[1]]$pit_reports |>
+        data.table::rbindlist() |>
+        dplyr::mutate(race_id = races[x])
+    }) |> data.table::rbindlist()
   }
-  if(length(no_data)>1) {
-    message(paste0("No pit stop data found for races: ", paste0(no_data,collapse=", ")))
-  }
-  return(masterpits)
+  return(pit_stops)
 }
 

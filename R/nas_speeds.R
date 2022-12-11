@@ -19,7 +19,7 @@ nas_speeds <- function(year=2022,series=1) {
 
   races <- race_ids$race_id
 
-  if (length(races)==0 | year < 2020 | !(series %in% c(1,2,3))) {
+  if (length(races)==0 | !(year %in% c(2020:2022)) | !(series %in% c(1,2,3))) {
     stop("No lap time data found for the specified year/series")
   }
   lap_times <- lapply(1:length(races), function(x) {
