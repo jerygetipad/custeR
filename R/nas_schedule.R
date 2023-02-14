@@ -1,47 +1,26 @@
-#' NAS Schedule
+#' Nas Schedule
 #'
-#' Pulls Weekend Schedule for seasons mentioned.
+#' Gets Schedule results for any season after 2019
 #'
-#' @param years The year 2022.
-#' @returns A data frame of schedule information.
+#' @param year 2022
+#' @returns A data frame containing schedule data
 #'
 #' @examples
-#' nas_schedule(years=2022)
-#' nas_schedule(years=c(2021,2022))
+#' nas_schedule(year=2022)
+#'
 
-nas_schedule <- function(years=2022) {
-  schedule_all <- data.frame()
-  if (!(all(years %in% c(2017:2022)))) {
-    stop("No lap time data found for the specified year/series")
+#! @export
+nas_schedule <- function(year) {
+  if (year < 2015 | year > 2023) {
+    stop("No data found for the specified year")
   }
-  for(i in years) {
+  url = glue::glue("https://raw.githubusercontent.com/armstjc/nascar-data-repository/main/nascar_api/schedule/{year}_schedule.csv
+")
 
-    URL <- paste0("https://cf.nascar.com/cacher/",i,"/1/schedule-feed.json")
-
-    schedule_year <- try(jsonlite::read_json(path = URL),silent = TRUE)
-
-    if(inherits(schedule_year,"try-error")) {
-      stop(paste0("No schedule data for year: ",i))
-    }
-    schedule_year <- schedule_year  |>
-      data.table::rbindlist(fill=TRUE) |>
-      dplyr::mutate(
-        year=i
-      )
-    schedule_all <-
-      rbind(
-        schedule_all,
-        schedule_year,
-        fill=TRUE
-     )
+  schedule <- try(readr::read_csv(url, show_col_types = FALSE),silent = T)
+  if(inherits(schedule,"try-error")) {
+    message(paste0("No data for season: ", year))
+    return()
   }
-  return(schedule_all)
+  return(schedule)
 }
-
-
-
-
-
-
-
-

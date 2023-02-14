@@ -4,22 +4,16 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Benjamin", "Gramza", , "benjamingramza@gmail.com", role = c("aut", "cre"))
 Description: Simple functions to quickly pull pit-stop, lap speed, and other data from NASCAR.com. 
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: use_mit_license()
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.2
 LazyData: true
 Imports: 
-    data.table,
     dplyr,
-    jsonlite,
-    magrittr,
     readr,
-    rvest,
-    stringr,
-    tidyr,
-    xml2
+    glue,
+    rlang
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3

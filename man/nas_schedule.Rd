@@ -2,20 +2,20 @@
 % Please edit documentation in R/nas_schedule.R
 \name{nas_schedule}
 \alias{nas_schedule}
-\title{NAS Schedule}
+\title{Nas Schedule}
 \usage{
-nas_schedule(years = 2022)
+nas_schedule(year)
 }
 \arguments{
-\item{years}{The year 2022.}
+\item{year}{2022}
 }
 \value{
-A data frame of schedule information.
+A data frame containing schedule data
 }
 \description{
-Pulls Weekend Schedule for seasons mentioned.
+Gets Schedule results for any season after 2019
 }
 \examples{
 nas_schedule(year=2022)
-nas_schedule(year=c(2021,2022))
+
 }
