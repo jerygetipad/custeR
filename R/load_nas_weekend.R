@@ -1,16 +1,24 @@
-#' Nas Weekend Results
+#' Load Nas Weekend Results
 #'
 #' Gets weekend results for any season after 2015
 #'
 #' @param year 2022
+#' @param time_pause Wait time (in seconds) between page loads
 #' @returns A data frame containing weekend data
 #'
 #' @examples
-#' nas_weekend(year=2022)
+#' load_nas_weekend(year=2022)
 #'
 #' @export
 
-nas_weekend <- function(year) {
+load_nas_weekend <- function(year, time_pause=1) {
+
+  # Check For Valid Time Value
+  if(time_pause < 0) {
+    stop("Invalid time_pause value")
+  }
+  #
+
   if (year < 2015 | year > 2023) {
     stop("No data found for the specified year")
   }
@@ -18,8 +26,7 @@ nas_weekend <- function(year) {
 
   weekend <- try(readr::read_csv(url, show_col_types = FALSE),silent = T)
   if(inherits(weekend,"try-error")) {
-    message(paste0("No data for season: ", year))
-    return()
+    stop(paste0("No data for season: ", year))
   }
   return(weekend)
 }
