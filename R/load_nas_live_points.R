@@ -18,7 +18,7 @@ load_nas_live_points <- function(year, time_pause=1) {
     stop("Invalid time_pause value")
   }
   #
-  if (year < 2019 | year > 2023) {
+  if (year < 2019 | year > format(Sys.Date(), "%Y")) {
     stop("No data found for the specified year")
   }
   url = glue::glue("https://raw.githubusercontent.com/armstjc/nascar-data-repository/main/nascar_api/live_points/{year}_live_points.csv")

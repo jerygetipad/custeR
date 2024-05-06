@@ -19,7 +19,7 @@ load_nas_race_results <- function(year, time_pause=1) {
   }
   #
 
-  if (year < 2018 | year > 2023) {
+  if (year < 2018 | year > format(Sys.Date(), "%Y")) {
     stop("No data found for the specified year")
   }
   url = glue::glue("https://raw.githubusercontent.com/armstjc/nascar-data-repository/main/nascar_api/race_results/{year}_race_results.csv")
