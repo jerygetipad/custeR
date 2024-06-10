@@ -1,6 +1,6 @@
 #' Creates a Crosswalk for race_ids from racing-reference.info and NASCAR.com
 #'
-#' Creates a Crosswalk for race_ids from racing-reference.info and NASCAR.com. Contains all races 2015-2023
+#' Creates a Crosswalk for race_ids from racing-reference.info and NASCAR.com. Contains all races 2015-2024
 #'
 #' @returns data.frame
 #'
@@ -12,7 +12,7 @@ xwalk_race_ids <- function() {
   tryCatch(
     expr = {
       xwalk <- data.frame()
-      for(yr in 2015:2023) {
+      for(yr in 2015:format(Sys.Date(), "%Y")) {
         if(yr != 2017) {
           url = paste0("https://cf.nascar.com/cacher/",yr,"/race_list_basic.json")
           schedule_feed=jsonlite::read_json(url)
@@ -46,4 +46,4 @@ xwalk_race_ids <- function() {
   return(xwalk)
 }
 #xwalk_race_ids <- xwalk_race_ids()
-#write(xwalk_race_ids,"./data/xwalk_race_ids.Rda")
+#save(object=xwalk_race_ids,file="../custeR/R/sysdata.Rda")
